@@ -1,0 +1,157 @@
+{
+    "rides":[
+        {
+           "id": "ride1",
+           "name": "Space Mountain",
+           "duration": 120,
+           "type": "coaster",
+           "heightReq": 50,
+           "intensity": "high",
+           "ridersPerTurn": 12,
+           "imgURL": "https://www.tripsavvy.com/thmb/f1Pafhn5dPB3I6yjw7xSoB-QNOE=/2500x1665/filters:no_upscale():max_bytes(150000):strip_icc()/Rock-n-Roller-Coaster-57bb5a545f9b58cdfd279ddd.jpg",
+           "isOperational": true,
+           "waitTime": 45,
+           "bodyCount": 1,
+           "lastFatality": "1/01/1900"
+        },
+        {
+            "id": "ride2",
+            "name": "TeaCups",
+            "duration": 180,
+            "type": "kiddie",
+            "heightReq": 2,
+            "intensity": "low",
+            "ridersPerTurn": 60,
+            "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TeacupsMadTeaParty_wb.jpg/250px-TeacupsMadTeaParty_wb.jpg",
+            "isOperational": true,
+            "waitTime": 30,
+            "bodyCount": 0,
+            "lastFatality": "1/01/1900"
+         },
+         {
+            "id": "ride3",
+            "name": "Death Wish",
+            "duration": 120,
+            "type": "coaster",
+            "heightReq": 65,
+            "intensity": "The highest",
+            "ridersPerTurn": 36,
+            "imgURL": "https://i.ytimg.com/vi/LDn_xmkm-rw/maxresdefault.jpg",
+            "isOperational": true,
+            "waitTime": 100,
+            "bodyCount": 385,
+            "lastFatality": "Yesterday"
+         },
+         {
+            "id": "ride4",
+            "name": "Ring of Fire",
+            "duration": 120,
+            "type": "coaster",
+            "heightReq": 60,
+            "intensity": "medium",
+            "ridersPerTurn": 40,
+            "imgURL": "https://theuijunkie.com/wp-content/uploads/2017/01/rollercoaster6.jpg",
+            "isOperational": false,
+            "waitTime": 25,
+            "bodyCount": 5,
+            "lastFatality": "4/01/1900"
+         },
+         {
+            "id": "ride5",
+            "name": "Death Machine",
+            "duration": 4000,
+            "type": "coaster",
+            "heightReq": 60,
+            "intensity": "high",
+            "ridersPerTurn": 29,
+            "imgURL": "https://www.tripsavvy.com/thmb/iwlblkdZQiJCd0A5AUXcee2Qfgg=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/Six-Flags-Great-America-Skyline-56a952653df78cf772a5d3eb.jpg",
+            "isOperational": true,
+            "waitTime": 35,
+            "bodyCount": 30,
+            "lastFatality": "1/01/1900"
+         },
+         {
+            "id": "ride6",
+            "name": "The Manta",
+            "duration": 120,
+            "type": "water-coaster",
+            "heightReq": 50,
+            "intensity": "med",
+            "ridersPerTurn": 30,
+            "imgURL": "http://static.asiawebdirect.com/m/.imaging/1356x904/website/bangkok/portals/orlando-com/homepage/top10/10-best-rollercoasters/allParagraphs/00/top10Set/02/image.jpg",
+            "isOperational": true,
+            "waitTime": 40,
+            "bodyCount": 20,
+            "lastFatality": "1/01/1900"
+         },
+         {
+            "id": "ride7",
+            "name": "The Whirly-Dirly",
+            "duration": 400,
+            "type": "coaster",
+            "heightReq": 50,
+            "intensity": "med",
+            "ridersPerTurn": 16,
+            "imgURL": "http://static.asiawebdirect.com/m/.imaging/1356x904/website/bangkok/portals/orlando-com/homepage/top10/10-best-rollercoasters/allParagraphs/00/top10Set/04/image.jpg",
+            "isOperational": true,
+            "waitTime": 20,
+            "bodyCount": 2,
+            "lastFatality": "1/01/1900"
+         },
+         {
+            "id": "ride8",
+            "name": "Kraken-Lacken",
+            "duration": 340,
+            "type": "coaster",
+            "heightReq": 55,
+            "intensity": "med",
+            "ridersPerTurn": 12,
+            "imgURL": "http://static.asiawebdirect.com/m/.imaging/1356x904/website/bangkok/portals/orlando-com/homepage/top10/10-best-rollercoasters/allParagraphs/00/top10Set/06/image.jpg",
+            "isOperational": true,
+            "waitTime": 0,
+            "bodyCount": 0,
+            "lastFatality": "1/01/1900"
+         },
+         {
+            "id": "ride9",
+            "name": "Mt. Everester",
+            "duration": 250,
+            "type": "kiddie-coaster",
+            "heightReq": 30,
+            "intensity": "low",
+            "ridersPerTurn": 16,
+            "imgURL": "http://static.asiawebdirect.com/m/.imaging/1356x904/website/bangkok/portals/orlando-com/homepage/top10/10-best-rollercoasters/allParagraphs/00/top10Set/08/image.jpg",
+            "isOperational": true,
+            "waitTime": 10,
+            "bodyCount": 0,
+            "lastFatality": "1/01/1900"
+         },
+         {
+            "id": "ride10",
+            "name": "Jigsaw Falls",
+            "duration": 100,
+            "type": "kiddie-coaster",
+            "heightReq": 30,
+            "intensity": "low",
+            "ridersPerTurn": 12,
+            "imgURL": "http://static.asiawebdirect.com/m/.imaging/1356x904/website/bangkok/portals/orlando-com/homepage/top10/10-best-rollercoasters/allParagraphs/00/top10Set/00/image.jpg",
+            "isOperational": true,
+            "waitTime": 5,
+            "bodyCount": 0,
+            "lastFatality": "1/01/1900"
+         }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
